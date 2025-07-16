@@ -1,6 +1,6 @@
 # movie-recommendation-engine
 
-## Credits
+### Credits
 
 This project is based on the tutorial by Code Heroku, where the instructor explains the fundamental ML concept behind recommendation systems and focuses on building a movie recommendation engine as an example.
 
